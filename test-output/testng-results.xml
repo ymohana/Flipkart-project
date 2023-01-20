@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="39724" started-at="2023-01-11T23:01:10 MST" finished-at="2023-01-11T23:01:50 MST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="39724" started-at="2023-01-11T23:01:10 MST" finished-at="2023-01-11T23:01:50 MST">
+      <class name="com.testng.Filpkart_Testng">
+        <test-method status="PASS" signature="browserLaunch()[pri:0, instance:com.testng.Filpkart_Testng@42d8062c]" name="browserLaunch" is-config="true" duration-ms="3659" started-at="2023-01-11T23:01:10 MST" finished-at="2023-01-11T23:01:14 MST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserLaunch -->
+        <test-method status="PASS" signature="urllaunch()[pri:0, instance:com.testng.Filpkart_Testng@42d8062c]" name="urllaunch" duration-ms="5747" started-at="2023-01-11T23:01:14 MST" finished-at="2023-01-11T23:01:20 MST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- urllaunch -->
+        <test-method status="PASS" signature="searchproduct()[pri:1, instance:com.testng.Filpkart_Testng@42d8062c]" name="searchproduct" duration-ms="6935" started-at="2023-01-11T23:01:20 MST" finished-at="2023-01-11T23:01:27 MST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchproduct -->
+        <test-method status="PASS" signature="mobilephone()[pri:2, instance:com.testng.Filpkart_Testng@42d8062c]" name="mobilephone" duration-ms="18280" started-at="2023-01-11T23:01:27 MST" finished-at="2023-01-11T23:01:45 MST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mobilephone -->
+        <test-method status="PASS" signature="addtocart()[pri:3, instance:com.testng.Filpkart_Testng@42d8062c]" name="addtocart" duration-ms="4130" started-at="2023-01-11T23:01:45 MST" finished-at="2023-01-11T23:01:49 MST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addtocart -->
+        <test-method status="PASS" signature="closebrowser()[pri:0, instance:com.testng.Filpkart_Testng@42d8062c]" name="closebrowser" is-config="true" duration-ms="866" started-at="2023-01-11T23:01:49 MST" finished-at="2023-01-11T23:01:50 MST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- com.testng.Filpkart_Testng -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
